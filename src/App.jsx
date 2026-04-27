@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Botao from "./Botao";
+import Botao from "./botao";
 
 export default function App() {
   const [atividade, setAtividade] = useState('');
